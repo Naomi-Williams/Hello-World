@@ -7,7 +7,7 @@ built into its libraries.
 
 I've learned about variables, functions, logical operators, mathematical operators, loops, for 
 loops, integers(whole numbers), floats(decimal numbers), if-elif-else, if-else, strings, dictionaries, 
-classes, objects, paramters, arguments, list, tuples, files, input validation, and exception handling. 
+classes, objects, parameters, arguments, list, tuples, files, input validation, and exception handling. 
 
 Taking this course has inspired me to continue to strengthen my coding skills with python and to explore
 other programming languages. 
